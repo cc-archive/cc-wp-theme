@@ -103,7 +103,9 @@
 
 		<h3>Global Summit 2015</h3>	
 
-	<p><img src="https://c2.staticflickr.com/8/7536/15754131282_3ece693d52_h.jpg" class="img-responsive" /></p>
+	<p><a href="https://summit.creativecommons.org"><img src="https://c2.staticflickr.com/8/7536/15754131282_3ece693d52_h.jpg" class="img-responsive" /></a></p>
+
+        <p><small><a href="https://www.flickr.com/photos/tracyhunter/15754131282">Seoul Korea by Tracy Hunter, CC Attribution</a></small></p>
 
 	<p>October 14 — October 17th 2015 in Seoul, Korea</p>
 	<p>Grow the commons &middot; Build the movement</p>
