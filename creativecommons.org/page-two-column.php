@@ -11,16 +11,14 @@ get_header();
 
         <div id="main" role="main">
             <div class="container">
-                <div class="sixteen columns">
+    <div class="row">
+                        <div class="col-md-6"><!-- for about page -->
 <?php 
 if (have_posts()) { 
 		the_post(); ?>
 
-		            <div class="first row">
                         <h1><?php the_title(); ?></h1>
-                    </div><!--! end of "first row" -->
-                    <div class="row"><!-- for about page -->
-                        <div class="eight columns alpha"><!-- for about page -->
+
 			            <?php the_content(); ?>
 			            <?php edit_post_link("Edit This Page", '<p>', '</p>'); ?>
                         </div>
@@ -29,7 +27,7 @@ if (have_posts()) {
 
                         if ( !empty($second_column) ) :
                         ?>
-                        <div class="eight columns omega">
+                        <div class="col-md-6">
                         <?php echo $second_column; ?>
                         </div>
                         <?php endif; ?>

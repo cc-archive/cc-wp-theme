@@ -66,9 +66,11 @@
 	    <li><a href="/choose/zero/">Choose CC0 Public Domain Dedication </a></li>
 	    <li class="divider"></li>
 	    <li><a href="/about/pdm">About Public Domain Mark</a></li>
+        </ul>
 
-	    <a href="https://donate.creativecommons.org" class="dropdown-toggle">Support CC</a>
-
+	<li class="dropdown">
+	  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support CC <span class="caret"></span></a>
+     	  <ul class="dropdown-menu">
 	    <li><a href="https://donate.creativecommons.org">Donate to Creative Commons</a></li>
 	    <li><a href="http://store.creativecommons.org/">Buy CC Merchandise</a></li>
 	    <li><a href="/supporters">Our Supporters</a></li>
@@ -101,10 +103,6 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">News <span class="caret"></span></a>
           <ul class="dropdown-menu">
-
-
-
-	    <li><a href="http://planet.creativecommons.org/">Affiliate News</a></li>
 	    <li class="divider"></li>
 	    <li><a href="/interviews">Interviews</a></li>
 	    <li><a href="http://wiki.creativecommons.org/Events">Events</a></li>
