@@ -45,8 +45,9 @@
 </div>
 
 <div class="row">
-<div class="col-md-6 well">
-      <h3>Search the existing public commons for images, videos, text and music</h3>
+  <div class="col-md-6 well">
+    <h3>Find CC material</h3>
+      <p>Search the existing public commons for images, videos, text and music</p>
 
 <form action="https://search.creativecommons.org/" method="get">
 <div class="input-group">
@@ -121,7 +122,7 @@
       
 	<h3>Buy CC merchandise</h3>
 	
-	<p><img src="/wp-content/uploads/2015/07/badges.jpg" style="max-height: 256px" alt="CC Buttons" /></p>
+	<p><img src="/wp-content/uploads/2015/07/badges.jpg" class="img-responsive" style="max-height: 256px" alt="CC Buttons" /></p>
 
 	<p>Show that you love to share! Support CC with t-shirts for your loved ones, vinyl stickers for your laptop, buttons, and lapel pins.</p>
 
