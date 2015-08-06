@@ -194,12 +194,12 @@ h6, h6 small {
   background: rgba(70,34,18,1);
 }
 
-#top-banner-ks {
-    background: #2BDE73;    
+.top-banner-ks {
+    background: #2BDE73 !important;    
 }
 
-#top-banner-ks button:hover{
-    background: #0F2105;  
+.top-banner-ks button:hover{
+    background: #0F2105 !important;  
 }
 
 
