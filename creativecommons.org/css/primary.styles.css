@@ -193,6 +193,16 @@ h6, h6 small {
 #top-banner button:hover {
   background: rgba(70,34,18,1);
 }
+
+#top-banner-ks {
+    background: #2BDE73;    
+}
+
+#top-banner-ks button:hover{
+    background: #0F2105;  
+}
+
+
 @media only screen and (max-width: 959px) and (min-width: 768px) {
   #top-banner a {
     width: 748px;
