@@ -20,7 +20,7 @@
 	}
 
 ?>
-<div id="top-banner top-banner-ks">
+<div id="top-banner" class="top-banner-ks">
 	<a style="display: block;" href="https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business">
             <h1>Almost there &mdash; CC's book on open business models</h1>
 		<button>Back us on Kickstarter</button>
