@@ -108,8 +108,11 @@ function get_button ($bucket, $link, $class = 'btn')
       </p>
 
       <p>
-	<a class="btn btn-success btn-lg" href="https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business">Back our project on Kickstarter</a>
+	<a class="btn btn-success btn-lg" href="https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business">Success!</a>
       </p>
+
+
+    <p>Thanks to you, we raised over $65,000 on Kickstarter.</p>
 
 
       </div>
