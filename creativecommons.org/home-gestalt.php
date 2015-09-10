@@ -103,7 +103,9 @@ function get_button ($bucket, $link, $class = 'btn')
       <h2>
 	Creative Commons Global Summit 2015
       </h2>
-      <p>CC's Global Summit brings together our global community of technologists, legal experts, academics, and activists who support free culture and open knowledge shared worldwide. Taking place every two years around the world, the summit provides CC and the broader open web community an opportunity to gather, share ideas, and advance our efforts. We are proud to host CC's 2015 Global Summit in Seoul &mdash; hope you'll join us!</p>
+      <p>CC's Global Summit brings together our global community of technologists, legal experts, academics, and activists who support free culture and open knowledge shared worldwide.</p>
+    <p>Taking place every two years around the world, the summit provides CC and the broader open web community an opportunity to gather, share ideas, and advance our efforts.</p>
+    <p>We are proud to host CC's 2015 Global Summit in Seoul &mdash; hope you'll join us!</p>
 
       <p><a class="btn btn-lg btn-success btn-block" href="https://donate.creativecommons.org/civicrm/event/info?reset=1&id=11">Register now</a></p>
 
