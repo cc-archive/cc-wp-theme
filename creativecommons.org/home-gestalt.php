@@ -101,27 +101,23 @@ function get_button ($bucket, $link, $class = 'btn')
       <div class="col-md-4">
 
       <h2>
-	Made with Creative Commons: A book on open business models
+	Creative Commons Global Summit 2015
       </h2>
-      <p>
-      Let's write a book that shows the world why Creative Commons is good for business.
-      </p>
+      <p>CC's Global Summit brings together our global community of technologists, legal experts, academics, and activists who support free culture and open knowledge shared worldwide. Taking place every two years around the world, the summit provides CC and the broader open web community an opportunity to gather, share ideas, and advance our efforts. We are proud to host CC's 2015 Global Summit in Seoul &mdash; hope you'll join us!</p>
 
-      <p>
-	<a class="btn btn-success btn-lg" href="https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business">Success!</a>
-      </p>
+      <p><a class="btn btn-lg btn-success btn-block" href="https://donate.creativecommons.org/civicrm/event/info?reset=1&id=11">Register now</a></p>
 
-
-    <p>Thanks to you, we raised over $65,000 on Kickstarter.</p>
-
+	<p><a href="https://summit.creativecommons.org/schedule/">See announced speakers and schedule</a></p>
 
       </div>
 
       <div class="col-md-8">
-      <p><img src="/wp-content/uploads/2015/07/6153035729_a0069ddb71_o1.jpg" class="img-thumbnail img-responsive" /></p>
+      <p><img src="/wp-content/themes/creativecommons.org/img/cc-global-2015.png" class="img-thumbnail img-responsive" /></p>
 
-      <p class="text-center"><small><a href="https://www.flickr.com/photos/kalexanderson/6153035729/in/album-72157627559005689/">CC Summit 2011 Warsaw by Kristina Alexanderson</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a></small></p>
+      <p class="text-center"><small><em>"The colorful circle symbolizes amalgamation of Knowledge by subject experts coming from diversified domains. Circles represent protective, unity, wholeness, and infinity. Without beginning or end, without sides or corners, the circle is also associated with the number one."</em> &mdash; by nareshagrawalart_155</small></p>
+
       </div>
+
 
 
 

@@ -102,17 +102,13 @@
 <div class="row">
 <div class="col-md-6">
 
-		<h3>Global Summit 2015</h3>	
+		<h3>Global Summit 2015 Schedule</h3>	
 
-	<p><a href="https://summit.creativecommons.org"><img src="https://c2.staticflickr.com/8/7536/15754131282_3ece693d52_h.jpg" class="img-responsive" /></a></p>
+	<p><a href="https://summit.creativecommons.org/schedule/"><img src="/wp-content/themes/creativecommons.org/img/cc-global-2015-schedule.png" class="img-responsive" /></a></p>
 
-                                                           <p><small><a href="https://www.flickr.com/photos/tracyhunter/15754131282">Seoul Korea by Tracy Hunter</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a></small></p>
+<p>Check out our <a href="https://summit.creativecommons.org/schedule/">full Global Summit program schedule</a> with sessions on open business models, 3D printing and design, open education, copyright reform, open access, and more.</p>                                                          
 
-	<p>October 14 — October 17th 2015 in Seoul, Korea</p>
-	<p>Grow the commons &middot; Build the movement</p>
-
-	<p><a class="btn btn-primary" href="https://donate.creativecommons.org/civicrm/event/info?reset=1&id=11">Register now</a></p>
-
+<p><small><a href="https://www.flickr.com/photos/dasqfamily/3775600263/">Train Schedule by Q Family</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a></small></p>
     
   </div> <!--! end of "six columns" -->
 
@@ -120,14 +116,11 @@
 
 
       
-	<h3>Buy CC merchandise</h3>
+	<h3>Thank you to Private Internet Access</h3>
 	
-	<p><img src="/wp-content/uploads/2015/07/badges.jpg" class="img-responsive" style="max-height: 256px" alt="CC Buttons" /></p>
+	<p><a href="http://privateinternetaccess.com" target="_blank"><img src="/wp-content/themes/creativecommons.org/img/cc-global-2015-pia.png" class="img-responsive" style="max-height: 256px" alt="" /></a></p>
 
-	<p>Show that you love to share! Support CC with t-shirts for your loved ones, vinyl stickers for your laptop, buttons, and lapel pins.</p>
-
-	<p><a class="btn btn-primary" href="http://store.creativecommons.org">Visit the Store</a></p>
-
+        <p>We are proud to thank our lead sponsor <a href="http://privateinternetaccess.com" target="_blank">Private Internet Access</a> for its support of CC's 2015 Global Summit.</p>
 
     
   </div> <!--! end of "col-md-4 well well" -->
