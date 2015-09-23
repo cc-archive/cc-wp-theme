@@ -14,6 +14,12 @@ remove_action('wp_head', 'parent_post_rel_link', 10, 0); // Removes rel="parent"
 remove_action('wp_head', 'adjacent_posts_rel_link_wp_head', 10, 0); // Removes rel="next"/rel="prev"
 remove_action('wp_head', 'feed_links_extra', 3); // remove default feed links
 
+function remove_devicepx() {
+    wp_dequeue_script( 'devicepx' );
+}
+
+add_action( 'wp_enqueue_scripts', 'remove_devicepx' );
+
 if (function_exists('register_sidebar')){
 
 register_sidebar(array('before_widget' => '<div class="widget">', 'after_widget' => '</div>'));
