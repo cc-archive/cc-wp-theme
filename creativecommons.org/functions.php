@@ -20,6 +20,13 @@ function remove_devicepx() {
 
 add_action( 'wp_enqueue_scripts', 'remove_devicepx' );
 
+function remove_pingback_url( $output, $show ) {
+    if ( $show == 'pingback_url' ) $output = 'https://localhost/';
+    return $output;
+}
+
+add_filter( 'bloginfo_url', 'remove_pingback_url', 10, 2 );
+
 if (function_exists('register_sidebar')){
 
 register_sidebar(array('before_widget' => '<div class="widget">', 'after_widget' => '</div>'));
