@@ -105,7 +105,7 @@ function get_button ($bucket, $link, $class = 'btn')
       </h2>
       <p>A huge thank you to all of you who helped make Creative Commons' 2015 Global Summit in Seoul a major success and our biggest global convening to date!</p>
     <p>We know many of you travelled from far and wide or tuned in online in order to be with us &mdash; from Australia to Chile to India to Kenya to Lebanon, and across the globe. Your energy and momentum was deeply felt.</p>
-    <p><strong>We were especially honored to have surprise guest Creative Commons founder and current United States presidential candidate Lawrence Lessig join us with a keynote.</strong></p>
+    <p><strong>We were especially honored to have surprise guest Creative Commons founder Lawrence Lessig join us with a keynote.</strong></p>
 
 
       </div>
