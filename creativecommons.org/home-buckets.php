@@ -108,7 +108,7 @@
 
 <p>Check out <a href="https://summit.creativecommons.org/2015/streaming/">videos from our Global Summit keynotes and programs</a>, all packed with ideas, debates, lessons learned, best practices, big wins, and more. Enjoy.</p>                                                          
 
-<p><small>Photo by <a href="https://www.flickr.com/photos/ter-burg/22229045322/in/album-72157659914327401/">Sebastiaan ter Berg</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a></small></p>
+<p><small>Photo by <a href="https://www.flickr.com/photos/ter-burg/22224809432/in/album-72157659914327401/">Sebastiaan ter Berg</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a></small></p>
     
   </div> <!--! end of "six columns" -->
 
