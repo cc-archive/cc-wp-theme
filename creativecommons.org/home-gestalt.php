@@ -113,7 +113,7 @@ function get_button ($bucket, $link, $class = 'btn')
       <div class="col-md-8">
       
 	<div class="embed-container">
-<p><iframe src="http://player.vimeo.com/video/143427866" width="500" height="273" frameborder="0" title="Lawrence Lessig at the CC Global Summit 2015" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p><iframe src="https://player.vimeo.com/video/143427866" width="500" height="273" frameborder="0" title="Lawrence Lessig at the CC Global Summit 2015" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 	</div>
 
 	<p class="text-center"><small>Photo by <a href="https://www.flickr.com/photos/ter-burg/22196304882/in/album-72157659914327401/">Sebastiaan ter Burg</a>, video by <a href="http://www.cckorea.org/">CC Korea</a>. <a href="https://creativecommons.org/licenses/by/4.0/">CC BY</a></small></p>
