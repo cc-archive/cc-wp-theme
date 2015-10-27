@@ -103,20 +103,20 @@ function get_button ($bucket, $link, $class = 'btn')
       <h2>
 	Creative Commons Global Summit 2015
       </h2>
-      <p>CC's Global Summit brings together our global community of technologists, legal experts, academics, and activists who support free culture and open knowledge shared worldwide.</p>
-    <p>Taking place every two years around the world, the summit provides CC and the broader open web community an opportunity to gather, share ideas, and advance our efforts.</p>
-    <p>We are proud to host CC's 2015 Global Summit in Seoul &mdash; hope you'll join us!</p>
+      <p>A huge thank you to all of you who helped make Creative Commons' 2015 Global Summit in Seoul a major success and our biggest global convening to date!</p>
+    <p>We know many of you travelled from far and wide or tuned in online in order to be with us &mdash; from Australia to Chile to India to Kenya to Lebanon, and across the globe. Your energy and momentum was deeply felt.</p>
+    <p><strong>We were especially honored to have surprise guest Creative Commons founder and current United States presidential candidate Lawrence Lessig join us with a keynote.</strong></p>
 
-      <p><a class="btn btn-lg btn-success btn-block" href="https://donate.creativecommons.org/civicrm/event/info?reset=1&id=11">Register now</a></p>
-
-	<p><a href="https://summit.creativecommons.org/schedule/">See announced speakers and schedule</a></p>
 
       </div>
 
       <div class="col-md-8">
-      <p><img src="/wp-content/themes/creativecommons.org/img/cc-global-2015.png" class="img-thumbnail img-responsive" /></p>
+      
+	<div class="embed-container">
+<p><iframe src="http://player.vimeo.com/video/143427866" width="500" height="273" frameborder="0" title="Lawrence Lessig at the CC Global Summit 2015" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+	</div>
 
-      <p class="text-center"><small><em>"The colorful circle symbolizes amalgamation of Knowledge by subject experts coming from diversified domains. Circles represent protective, unity, wholeness, and infinity. Without beginning or end, without sides or corners, the circle is also associated with the number one."</em> &mdash; by nareshagrawalart_155</small></p>
+	<p class="text-center"><small>Photo by <a href="https://www.flickr.com/photos/ter-burg/22196304882/in/album-72157659914327401/">Sebastiaan ter Burg</a>, video by <a href="http://www.cckorea.org/">CC Korea</a>. <a href="https://creativecommons.org/licenses/by/4.0/">CC BY</a></small></p>
 
       </div>
 

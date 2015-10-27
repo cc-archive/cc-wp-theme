@@ -102,13 +102,13 @@
 <div class="row">
 <div class="col-md-6">
 
-		<h3>Global Summit 2015 Schedule</h3>	
+		<h3>CC's Global Summit: Relive the magic!</h3>	
 
-	<p><a href="https://summit.creativecommons.org/schedule/"><img src="/wp-content/themes/creativecommons.org/img/cc-global-2015-schedule.png" class="img-responsive" /></a></p>
+	<p><a href="https://summit.creativecommons.org/2015/streaming/"><img src="/wp-content/themes/creativecommons.org/img/cc-global-2015-streaming.png" class="img-responsive" /></a></p>
 
-<p>Check out our <a href="https://summit.creativecommons.org/schedule/">full Global Summit program schedule</a> with sessions on open business models, 3D printing and design, open education, copyright reform, open access, and more.</p>                                                          
+<p>Check out <a href="https://summit.creativecommons.org/2015/streaming/">videos from our Global Summit keynotes and programs</a>, all packed with ideas, debates, lessons learned, best practices, big wins, and more. Enjoy.</p>                                                          
 
-<p><small><a href="https://www.flickr.com/photos/dasqfamily/3775600263/">Train Schedule by Q Family</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a></small></p>
+<p><small>Photo by <a href="https://www.flickr.com/photos/ter-burg/22229045322/in/album-72157659914327401/">Sebastiaan ter Berg</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a></small></p>
     
   </div> <!--! end of "six columns" -->
 
