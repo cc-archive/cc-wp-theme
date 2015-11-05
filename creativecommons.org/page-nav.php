@@ -29,6 +29,11 @@
 	    <li><a href="/opportunities">Job Opportunities</a></li>
 	    <li class="divider"></li>
 	    <li><a href="http://wiki.creativecommons.org/FAQ">Frequently Asked Questions</a></li>
+            <li><a href="/policies">Policies</a></li>
+            <li><a href="/privacy">Privacy</a></li>
+	    <li><a href="/terms">Terms of Use</a></li>
+	    <li><a href="<?php bloginfo('stylesheet_directory'); ?>/weblabels.html" rel="jslicense">JavaScript library licenses</a></li>
+	    <li class="divider"></li>
 	    <li><a href="/contact">Contact Us</a></li>
           </ul>
         </li>
