@@ -102,13 +102,13 @@
 <div class="row">
 <div class="col-md-6">
 
-		<h3>CC's Global Summit: Relive the magic!</h3>	
+		<h3>Sharing is good for business!</h3>	
 
-	<p><a href="https://summit.creativecommons.org/2015/streaming/"><img src="/wp-content/themes/creativecommons.org/img/cc-global-2015-streaming.png" class="img-responsive" /></a></p>
+	<p><a href="https://medium.com/made-with-creative-commons/latest"><img src="/wp-content/themes/creativecommons.org/img/cc-2015-share.jpg" class="img-responsive" /></a></p>
 
-<p>Check out <a href="https://summit.creativecommons.org/2015/streaming/">videos from our Global Summit keynotes and programs</a>, all packed with ideas, debates, lessons learned, best practices, big wins, and more. Enjoy.</p>                                                          
+<p>Check out our <a href="https://medium.com/made-with-creative-commons/latest">Medium publication: Made With Creative Commons</a>, where we are writing regularly about what we're learning and thinking as we write our <a href="https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business">Kickstarter-funded book about business models</a> built with CC licensing.</p>                                                          
 
-<p><small>Photo by <a href="https://www.flickr.com/photos/ter-burg/22224809432/in/album-72157659914327401/">Sebastiaan ter Berg</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a></small></p>
+<p><small>Photo by <a href="https://www.flickr.com/photos/jakerust/16639834358">Got Credit</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a></small></p>
     
   </div> <!--! end of "six columns" -->
 
