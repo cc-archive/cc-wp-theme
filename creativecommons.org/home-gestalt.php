@@ -97,27 +97,28 @@ function get_button ($bucket, $link, $class = 'btn')
 <div class="first row">
   <div class="col-md-12 well">
 
+
       <div class="container">
       <div class="col-md-4">
 
-      <h2>
-	Creative Commons Global Summit 2015
+      <h2 style="font-size: 22px">
+	We are proud to share Creative Commons' 2015 State of the Commons report
       </h2>
-      <p>A huge thank you to all of you who helped make Creative Commons' 2015 Global Summit in Seoul a major success and our biggest global convening to date!</p>
-    <p>We know many of you travelled from far and wide or tuned in online in order to be with us &mdash; from Australia to Chile to India to Kenya to Lebanon, and across the globe. Your energy and momentum was deeply felt.</p>
-    <p><strong>We were especially honored to have surprise guest Creative Commons founder Lawrence Lessig join us with a keynote.</strong></p>
 
+      <p>Creative Commoners have known all along that collaboration, sharing, and cooperation are a driving force for human evolution. And so for many it will come as no surprise that in 2015 we achieved a tremendous milestone: over 1.1 billion CC licensed photos, videos, audio tracks, educational materials, research articles, and more have now been contributed to the shared global commons.</p>
+
+<p>We are proud to be a leader in the commons movement, and we hope you will join us as we celebrate all we have accomplished together this year.</p>
+
+<p class="text-center"><a class="btn btn-lg btn-success" href="https://stateof.creativecommons.org/2015/">Read the report</a></p>
 
       </div>
 
       <div class="col-md-8">
       
-	<div class="embed-container">
-<p><iframe src="https://player.vimeo.com/video/143427866" width="500" height="273" frameborder="0" title="Lawrence Lessig at the CC Global Summit 2015" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
-	</div>
 
-	<p class="text-center"><small>Photo by <a href="https://www.flickr.com/photos/ter-burg/22196304882/in/album-72157659914327401/">Sebastiaan ter Burg</a>, video by <a href="http://www.cckorea.org/">CC Korea</a>. <a href="https://creativecommons.org/licenses/by/4.0/">CC BY</a></small></p>
+                                                                                                             <p><img src="/wp-content/themes/creativecommons.org/img/sotc-2015-lg.png" alt="State of the Commons 2015" /></p>
 
+												
       </div>
 
 
