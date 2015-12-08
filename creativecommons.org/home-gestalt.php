@@ -116,7 +116,7 @@ function get_button ($bucket, $link, $class = 'btn')
       <div class="col-md-8">
       
 
-                                                                                                             <p><a href="https://stateof.creativecommons.org/2015"><img src="/wp-content/themes/creativecommons.org/img/sotc-2015-lg.png" alt="State of the Commons 2015" /></a></p>
+                                                                                                             <p><a href="https://stateof.creativecommons.org/2015"><img src="/wp-content/themes/creativecommons.org/img/sotc-2015-lg.png" alt="State of the Commons 2015" class="img-responsive" /></a></p>
 
 												
       </div>
