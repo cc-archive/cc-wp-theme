@@ -9,20 +9,20 @@
     if(! preg_match('/MSIE [1-8]/i', $_SERVER['HTTP_USER_AGENT']))
     {
     ?>
-    <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/style.css">
+    <link rel="stylesheet" href="/wp-content/themes/creativecommons.org/css/style.css">
     <?php 
     }
     ?>
 
     <!--[if !IE]>
-    <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/style.css">
+    <link rel="stylesheet" href="/wp-content/themes/creativecommons.org/css/style.css">
     <![endif]-->
 
     <!--[if lt IE 9]>
-	<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/ie8-and-down.css">
+	<link rel="stylesheet" href="/wp-content/themes/creativecommons.org/css/ie8-and-down.css">
 	<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script src="<?php bloginfo('stylesheet_directory'); ?>/js/libs/modernizr-2.0.6.min.js"></script>
+    <script src="/wp-content/themes/creativecommons.org/js/libs/modernizr-2.0.6.min.js"></script>
 
 
 <style>
