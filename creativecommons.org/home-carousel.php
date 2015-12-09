@@ -15,7 +15,7 @@
 										</div> <!--! end of "five columns alpha" -->
 										<div class="eleven columns omega">
 											<div class="film">
-												<a href="<?php bloginfo('home');?>/videos/a-shared-culture"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/2251780221_5a21c2591a_o.jpg" alt="A Shared Culture" /></a>
+												<a href="<?php bloginfo('home');?>/videos/a-shared-culture"><img src="/wp-content/themes/creativecommons.org/img/2251780221_5a21c2591a_o.jpg" alt="A Shared Culture" /></a>
 												<div class="caption">
 													<p>A Shared Culture is a short video about CC by renowned filmmaker Jesse Dylan. <a href="<?php bloginfo('home');?>/videos/a-shared-culture">Watch it now</a>.</p>
 												</div>
@@ -34,7 +34,7 @@
 										</div> <!--! end of "five columns alpha" -->
 										<div class="eleven columns omega">
 											<div class="film">
-												<a href="http://wiki.creativecommons.org/Global_Summit_2011"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/ccline.png" alt="Creative Commons Global Summit 2011" /></a>
+												<a href="http://wiki.creativecommons.org/Global_Summit_2011"><img src="/wp-content/themes/creativecommons.org/img/ccline.png" alt="Creative Commons Global Summit 2011" /></a>
 												<div class="caption">
 													<p>The CC Global Summit is taking place 16–18 September 2011 in Warsaw Poland. <a href="http://wiki.creativecommons.org/Global_Summit_2011">Learn more!</a></p>
 												</div>
@@ -54,7 +54,7 @@
 										</div> <!--! end of "five columns alpha" -->
 										<div class="eleven columns omega">
 											<div class="film">
-											<a href="http://thepowerofopen.org/"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/poo.jpg" alt="The Power of Open" /></a>
+											<a href="http://thepowerofopen.org/"><img src="/wp-content/themes/creativecommons.org/img/poo.jpg" alt="The Power of Open" /></a>
 												<div class="caption">
 													<p>The Power of Open: Stories of creators sharing knowledge, art, & data using Creative Commons. <a href="http://thepowerofopen.org/">Read it now</a>.</p>
 												</div>

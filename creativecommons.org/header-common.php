@@ -1,9 +1,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
     <meta name="globalsign-domain-verification" content="Ld-LezcptQDO8upxQ8oQKI5FOFhQWj-9s3pbS89jlP" />
-	<link href="<?php bloginfo('stylesheet_directory'); ?>/favicon.ico" title="Icon" type="image/x-icon" rel="icon" />
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php bloginfo('stylesheet_directory'); ?>/apple-touch-icon-114x114-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php bloginfo('stylesheet_directory'); ?>/apple-touch-icon-72x72-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" href="<?php bloginfo('stylesheet_directory'); ?>/apple-touch-icon-precomposed.png">
+	<link href="/wp-content/themes/creativecommons.org/favicon.ico" title="Icon" type="image/x-icon" rel="icon" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wp-content/themes/creativecommons.org/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/wp-content/themes/creativecommons.org/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="/wp-content/themes/creativecommons.org/apple-touch-icon-precomposed.png">
 
     <?php 
     if(! preg_match('/MSIE [1-8]/i', $_SERVER['HTTP_USER_AGENT']))

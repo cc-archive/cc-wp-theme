@@ -32,7 +32,7 @@
             <li><a href="/policies">Policies</a></li>
             <li><a href="/privacy">Privacy</a></li>
 	    <li><a href="/terms">Terms of Use</a></li>
-	    <li><a href="<?php bloginfo('stylesheet_directory'); ?>/weblabels.html" rel="jslicense">JavaScript library licenses</a></li>
+	    <li><a href="/wp-content/themes/creativecommons.org/weblabels.html" rel="jslicense">JavaScript library licenses</a></li>
 	    <li class="divider"></li>
 	    <li><a href="/contact">Contact Us</a></li>
           </ul>
