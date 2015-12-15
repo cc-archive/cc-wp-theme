@@ -6,7 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Creative Commons Open Store</title>
+  <title>Creative Commons</title>
+  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
@@ -152,7 +154,7 @@
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="container">
-	<img src="/img/alwaysopen.png" style="height: 120px; position: relative; top: -20px;" class="pull-right" />
+	<img src="https://creativecommons.org/wp-content/themes/creativecommons.org/img/alwaysopen.png" style="height: 120px; position: relative; top: -20px;" class="pull-right" />
         <h2>Welcome to The Open Store</h2>
 
 	
@@ -170,52 +172,6 @@
 
     <h3 id="books">Books</h3>
 
-
-    <div class="row">
-
-    <div class="col-md-12">
-      <div class="panel panel-success">
-
-
-  
-<div class="panel-body">
-
-<a href="http://www.lulu.com/shop/noura-ghazi-safadi/waiting/ebook/product-22486378.html"><img src="https://creativecommons.org/wp-content/themes/creativecommons.org/img/waiting_cover_en_compressed.jpg" align="right" class="thumbnail" style="max-height: 210px; margin-left: 1em; width: auto !important;" /></a>
-
-  
-<p><span style="font-weight: bold">Waiting</span> by Noura Ghazi Safadi</p>
-
-<p><small><p>Waiting... is a prose book by Noura Ghazi Safadi, a Syrian human rights lawyer, born in Damascus in 1981, written to her husband Bassel Khartabil Safadi over a three year period from 2012–2015, while he was imprisoned by the Syrian government in Damascus.</p><p>Bassel Khartabil Safadi is a Palestinian Syrian free software developer born in 1981. On March 15, 2012, Bassel was detained in the Mazzeh district of Damascus. Until October 2015, he was being held at Adra Prison in Damascus by the Syrian government. His current whereabouts are unknown. There were rumours that Bassel was sentenced to death, but the credibility of this information has not been confirmed.</p><p>Bassel translated this book into English while serving time in Adra prison.</p><p>The cover design was created and donated by Mr. Youssef Abdalki.</p></small></p>
-
-
-</div>
-<div class="panel-footer" style="background: transparent !important">
-
-      <p><a href="http://www.lulu.com/shop/noura-ghazi-safadi/waiting/ebook/product-22486378.html" class="pull-right btn-lg btn-success"><i class="glyphicon glyphicon-shopping-cart
-"></i>&nbsp;Buy it</a></p>
-
-
-  <ul class="list-inline list-unstyled">
-    <li><img src="https://licensebuttons.net/i/cc-gift-guide/by.png" alt="This work released under the by license" /></li>
-    <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.lulu.com%2Fshop%2Fnoura-ghazi-safadi%2Fwaiting%2Febook%2Fproduct-22486378.html&text=Waiting in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
-      <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.lulu.com%2Fshop%2Fnoura-ghazi-safadi%2Fwaiting%2Febook%2Fproduct-22486378.html"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
-  </ul>
-
-
-
-
-</div>
-
-
-      </div>
-      </div>
-
-</div>
-
-
-
-
-    
 
     <div class="row">
 
@@ -241,7 +197,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-nc-sa.png" alt="This work released under the by-nc-sa license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0143034650%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0143034650%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DCIFRPROMIBEQZS2X&text=Free Culture: The Nature and Future of Creativity in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0143034650%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0143034650%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DCIFRPROMIBEQZS2X"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -285,7 +241,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-nc-sa.png" alt="This work released under the by-nc-sa license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1455581089%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D1455581089%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DWZJT25O2DA35OS66&text=The Art of Asking: How I Learned to Stop Worrying and Let People Help in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1455581089%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D1455581089%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DWZJT25O2DA35OS66"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -329,7 +285,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-nc.png" alt="This work released under the by-nc license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1620100908%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D1620100908%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DNX5DC2QPJQ453CU7&text=I'm A Rocker. I Rock Out in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1620100908%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D1620100908%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DNX5DC2QPJQ453CU7"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -373,7 +329,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-nc-sa.png" alt="This work released under the by-nc-sa license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0300151241%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0300151241%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DBVJOEGRHFVJY3Y6J&text=The Future of the Internet -- And How to Stop It in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0300151241%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0300151241%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DBVJOEGRHFVJY3Y6J"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -417,7 +373,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-nc-sa.png" alt="This work released under the by-nc-sa license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0765323117%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0765323117%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3D4F77CQ23IXBNLLWD&text=Little Brother in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0765323117%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0765323117%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3D4F77CQ23IXBNLLWD"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -461,7 +417,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/gfdl.png" alt="This work released under the gfdl license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0983159203%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0983159203%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DPVU3MIR3T6SYAWX4&text=Free Software, Free Society in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0983159203%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0983159203%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DPVU3MIR3T6SYAWX4"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -505,7 +461,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-nc-sa.png" alt="This work released under the by-nc-sa license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0137135599%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0137135599%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DQJH5KIB2J2ZRHBEZ&text=Blown To Bits: Your Life, Liberty, and Happiness After the Digital Explosion in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0137135599%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0137135599%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DQJH5KIB2J2ZRHBEZ"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -549,7 +505,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-nc-sa.png" alt="This work released under the by-nc-sa license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0982167121%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0982167121%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DH4YHRXWC5KVODWST&text=Machine of Death: A Collection of Stories About People Who Know How They Will Die in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0982167121%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3D0982167121%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DH4YHRXWC5KVODWST"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -599,7 +555,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by.png" alt="This work released under the by license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00KLPQKTY%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB00KLPQKTY%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DX6EBL6X2PNK4BJCN&text=The Beautiful Machine in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00KLPQKTY%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB00KLPQKTY%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DX6EBL6X2PNK4BJCN"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -643,7 +599,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-sa.png" alt="This work released under the by-sa license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB009ZZ2NKG%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB009ZZ2NKG%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DBW5MXCZBYHVTYW2P&text=Guess Who's A Mess in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB009ZZ2NKG%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB009ZZ2NKG%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DBW5MXCZBYHVTYW2P"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -687,7 +643,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-nc-sa.png" alt="This work released under the by-nc-sa license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0015FQZ94%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB0015FQZ94%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DIAMWEE4MZMJNKJFB&text=Ghosts I-IV in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0015FQZ94%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB0015FQZ94%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DIAMWEE4MZMJNKJFB"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -731,7 +687,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-nc-sa.png" alt="This work released under the by-nc-sa license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00B9JDBT8%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB00B9JDBT8%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DYJGR5ECHQSXXE46L&text=Shaking The Habitual in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00B9JDBT8%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB00B9JDBT8%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DYJGR5ECHQSXXE46L"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -781,7 +737,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by.png" alt="This work released under the by license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB003XTF4C4%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB003XTF4C4%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DH6IEHHIEIPMMAXGR&text=Big Buck Bunny in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB003XTF4C4%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB003XTF4C4%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DH6IEHHIEIPMMAXGR"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -825,7 +781,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by-nc-nd.png" alt="This work released under the by-nc-nd license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00AHHD4NQ%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB00AHHD4NQ%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DEVP7KUWMZ4LDG64L&text=A Lonely Place for Dying in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00AHHD4NQ%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB00AHHD4NQ%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DEVP7KUWMZ4LDG64L"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -869,7 +825,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/by.png" alt="This work released under the by license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB003Q3EZW2%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB003Q3EZW2%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DDAV42KL7KOI24SRW&text=Elephant's Dream in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB003Q3EZW2%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB003Q3EZW2%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DDAV42KL7KOI24SRW"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -913,7 +869,7 @@
 "></i>&nbsp;Buy it</a></p>
 
 
-  <ul class="list-inline list-unstyled">
+  <ul class="list-inline list-unstyled hide-sm">
     <li><img src="https://licensebuttons.net/i/cc-gift-guide/0.png" alt="This work released under the 0 license" /></li>
     <li><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB002G50002%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB002G50002%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DMYMPIFWU72PAJKMB&text=Sita Sings The Blues in @creativecommons new Open Store&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="Share on Twitter" /></a></li>
       <li><a href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB002G50002%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D390957%26creativeASIN%3DB002G50002%26linkCode%3Das2%26tag%3Dcreatcommo0b-20%26linkId%3DMYMPIFWU72PAJKMB"><img src="/img/glyphicons/social-31-facebook.png" alt="Share on Facebook" /></a></li>
@@ -950,12 +906,12 @@
 <div class="row">
 <div class="col-md-8">
 <div class="clearfix">&nbsp;</div>
-<ul class="list-inline list-unstyled">
+<ul class="list-inline list-unstyled hide-sm">
 <li><a href="http://www.facebook.com/creativecommons" title="Creative Commons on Facebook"><img src="https://creativecommons.org/wp-content/themes/creativecommons.org/img/facebook.png" alt="Creative Commons on Facebook"></a></li>
 <li><a href="http://twitter.com/creativecommons" title="Creative Commons on Twitter"><img src="https://creativecommons.org/wp-content/themes/creativecommons.org/img/twitter.png" alt="Creative Commons on Twitter"></a></li><li>
 </li><li><a href="http://identi.ca/creativecommons" title="Creative Commons on Identi.ca"><img src="https://creativecommons.org/wp-content/themes/creativecommons.org/img/identica.png" alt="Creative Commons on Identi.ca"></a></li>
 </ul>
-<ul class="list-inline list-unstyled">
+<ul class="list-inline list-unstyled hide-sm">
 <li><a href="http://creativecommons.org/policies">Policies</a></li>
 <li><a href="http://creativecommons.org/privacy">Privacy</a></li>
 <li><a href="http://creativecommons.org/terms">Terms of Use</a></li>
