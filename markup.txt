@@ -1,0 +1,72 @@
+<div style="background-color: #dc642f;  position: absolute; top: 0; left: 0; width: 100% !important; z-index: 999; overflow: hidden;">
+<div style="background: white; padding: 1em;"><div style="width: 100%; max-width: 1100px; margin: 0 auto;"><a style="padding: 1em;" href="/">Continue to Creative Commons</a></div></div>
+<div class="container" style="width: 100%; max-width: 1100px; margin: 0 auto;">
+<div class="row">
+<div class="col-md-6 col-md-offset-1 col-sm-12 col-xs-12" style="height: 688px;">
+
+<div  style="position: relative;
+  top: 15%;">
+
+<a style="display: block;
+    height: 688px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    text-decoration: none; color: white !important;" href="https://donate.creativecommons.org/?utm_campaign=2015fund&amp;utm_source=ccsite_header2015">
+
+<h1 style="font-size: 44px; color: white; font-weight: bold;">Creative Commons helps to build a more creative, free, and open commons. </h1>
+
+<p style="font-size: 24px; line-height: 30px; color: white;">If each person reading this today gave $3, our fundraising drive would be done by midnight tonight. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</p>
+
+<p><button style="background: rgba(70,34,18,.8);
+    display: inline-block;
+    height: 3em;
+    padding: .5em 1em;
+    border: 0;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    -webkit-box-shadow: inset 2px 2px 6px 0 rgba(0,0,0,.2);
+    box-shadow: inset 2px 2px 6px 0 rgba(0,0,0,.2);
+    color: #fff;
+    font-size: 23px;
+    /* font-weight: bold; */
+    margin: 25px 0;
+    text-decoration: none;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;">Donate now</button></p>
+
+</a>
+
+</div>
+
+</div>
+<div class="col-md-3 hidden-sm hidden-xs" style="height: 688px; ">
+
+<a style="display: block;
+    height: 688px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    text-decoration: none; color: white !important;" href="https://donate.creativecommons.org/?utm_campaign=2015fund&amp;utm_source=ccsite_header2015">
+<img src="/wp-content/themes/creativecommons.org/img/whiteheart.png" style="position: relative;
+  top: 25%;" />
+</a>
+</div>
+</div>
+</div>
+</div>
+
+<div style="    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #666;
+    background-color: rgba(0,0,0,0.7);
+    width: 100%;
+    height: 100%; z-index: 998;"></div>
+
+
