@@ -94,11 +94,8 @@ function get_button ($bucket, $link, $class = 'btn')
 <p id="cc-subintro">We're helping to realize the full potential of the Internet—universal access to research and education, full participation in culture—to drive a new era of development growth, and productivity.</p>
 
 
-<div class="first row">
-  <div class="col-md-12 well">
+<div class="first row well">
 
-
-      <div class="container">
       <div class="col-md-4">
 
       <h2 style="font-size: 22px">
@@ -125,9 +122,10 @@ function get_button ($bucket, $link, $class = 'btn')
 
 
 
-    </div>
+
 </div> <!--! end of "first row" -->
 
+                                                                                                                                                                <div class="clearfix"></div>
 
 
 <?php
