@@ -26,7 +26,7 @@ switch ($x) {
         ?>
         <div id="top-banner">
 	<a style="display: block;" href="https://donate.creativecommons.org/?utm_campaign=2015fund&utm_source=ccsite_header2015">
-		<h1 style="font-size: 16px; line-height: 19px; width: 80%; padding: 34px 0;">If each person reading this today gave $3, our fundraising drive would be done by midnight tonight. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</h1>
+		<h1 style="font-size: 16px; line-height: 19px; width: 80%; padding: 34px 0;">If each person reading this today gave $3, our fundraising drive would be done by midnight tonight. </h1>
 		<button>Donate</button>
 	</a>
 	</div>
@@ -48,5 +48,5 @@ switch ($x) {
 
 	
 ?>
-    
+
 
