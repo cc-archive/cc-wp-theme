@@ -27,18 +27,11 @@ if ( have_posts() )  {
 						<h4><?php the_author() ?>, <?php the_time('F jS, Y')?></h4>
 					</div>
 					
-						<?php the_content(); ?>
-						<div class="twitter">
-						<?php /* FIXME: use official buttons here, include facebook */ ?>
-						<a href="http://twitter.com/home?status=<?php the_title() ?> - <?php the_permalink() ?> via @creativecommons">Share on Twitter</a>
-						<a href="http://identi.ca/?action=newnotice&amp;status_textarea=<?php the_title() ?>%20-%20<?php the_permalink() ?>%20via%20@creativecommons">Share on Identi.ca</a>
-					
-					        </div>
-					
+						<?php the_content(); ?>					
 					<?php if ( get_the_tags() ) { ?>
 					<div class="postTags"><?php the_tags(); ?></div>
 					<?php } ?>
-					<div class="comments"><?php comments_template(); ?></div>
+					<div class="comments"><?php // comments_template(); ?></div>
 				
 				</div>
 				            <div class="col-md-4 well">
