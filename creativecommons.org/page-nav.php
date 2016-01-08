@@ -13,7 +13,7 @@
       <div id="navbar" class="navbar-collapse collapse">
 	<ul class="nav navbar-nav">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
+          <a href="http://creativecommons.org/about" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
           <ul class="dropdown-menu">
 	    <li><a href="https://creativecommons.org/about">About CC</a></li>
 	    <li><a href="https://creativecommons.org/about/history">History</a></li>
@@ -38,7 +38,7 @@
           </ul>
         </li>
 	<li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Licenses <span class="caret"></span></a>
+          <a href="https://creativecommons.org/licenses" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Licenses <span class="caret"></span></a>
           <ul class="dropdown-menu">
 	    <li><a href="https://creativecommons.org/licenses/">About the Licenses</a></li>
 	    <li><a href="https://creativecommons.org/choose/">Choose a License</a></li>
@@ -63,7 +63,7 @@
 	
 
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Public Domain <span class="caret"></span></a>
+          <a href="https://creativecommons.org/publicdomain/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Public Domain <span class="caret"></span></a>
           <ul class="dropdown-menu">
 	    <li><a href="https://creativecommons.org/publicdomain/">Our Public Domain Tools</a></li>
 	    <li class="divider"></li>
@@ -74,9 +74,9 @@
         </ul>
 
 	<li class="dropdown">
-	  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support CC <span class="caret"></span></a>
+	  <a href="https://donate.creativecommons.org/?utm_campaign=websitenav&utm_source=web&utm_medium=ccwebsiteorblog" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support CC <span class="caret"></span></a>
       <ul class="dropdown-menu">
-	    <li><a href="https://donate.creativecommons.org">Donate to Creative Commons</a></li>
+	    <li><a href="https://donate.creativecommons.org/?utm_campaign=websitenav&utm_source=web&utm_medium=ccwebsiteorblog">Donate to Creative Commons</a></li>
 	    <li><a href="http://store.creativecommons.org/">Buy CC Merchandise</a></li>
 	    <li><a href="https://creativecommons.org/supporters">Our Supporters</a></li>
 	    <li><a href="https://creativecommons.net/testimonials/">Testimonials</a></li>
@@ -85,7 +85,7 @@
 
 
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
+          <a href="https://creativecommons.org/projects/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
           <ul class="dropdown-menu">
 
 	    <li><a href="https://creativecommons.org/culture">Culture</a></li>
