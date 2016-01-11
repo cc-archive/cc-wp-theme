@@ -6,7 +6,7 @@ $func_custom = TEMPLATEPATH . '/functions-custom.php';
 if ( is_readable( $func_custom ) )
     include_once( $func_custom );
 
-add_theme_support( 'post-thumbnails' ); 
+add_theme_support( 'post-thumbnails' );
 
 // Remove link rel="start" from blog pages
 remove_action('wp_head', 'start_post_rel_link'); // Removes the start link
@@ -26,6 +26,16 @@ function remove_pingback_url( $output, $show ) {
 }
 
 add_filter( 'bloginfo_url', 'remove_pingback_url', 10, 2 );
+
+function add_responsive_class ($content)
+{
+    $pattern = '/<img class="/';
+    $replacement = '<img class="img-responsive ';
+    $content = preg_replace($pattern, $replacement, $content);
+    return $content;
+}
+
+add_filter('the_content', 'add_responsive_class');
 
 if (function_exists('register_sidebar')){
 
