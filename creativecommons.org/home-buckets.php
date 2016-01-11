@@ -22,24 +22,31 @@
   <div class="col-md-6">
 
     <h3>Latest News from the Commons</h3>
+    <?php
+    // https://codex.wordpress.org/Function_Reference/fetch_feed
+    $rss = fetch_feed( 'https://blog.creativecommons.org/feed/' );
 
-
-<ul class="nav nav-pills nav-stacked">
- <?php
-            $args1 = array( 'numberposts' => 5);
-            global $post;
-            $rand_posts1 = get_posts( $args1);
-
-            foreach( $rand_posts1 as $post ) :
-                setup_postdata($post);    ?> 
-                <li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
-
-            <?php endforeach; 
-
-            ?>
-
-</ul>
-
+    $maxitems = 0;
+    
+    if ( ! is_wp_error( $rss ) ) :
+                $maxitems = $rss->get_item_quantity( 5 );
+    $rss_items = $rss->get_items( 0, $maxitems );
+    endif;
+    ?>
+    
+    <ul class="nav nav-pills nav-stacked">
+      <?php if ( $maxitems == 0 ) : ?>
+        <li><?php _e( 'No items', 'my-text-domain' ); ?></li>
+      <?php else : ?>
+        <?php foreach ( $rss_items as $item ) : ?>
+          <li>
+            <a href="<?php echo esc_url( $item->get_permalink() ); ?>">
+               <?php echo esc_html( $item->get_title() ); ?>
+            </a>
+          </li>
+        <?php endforeach; ?>
+      <?php endif; ?>
+    </ul>
   </div>
 
 </div>
