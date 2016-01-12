@@ -80,6 +80,5 @@ get_header();
 
                 </div><!-- end of sixteen columns -->
             </div><!--! end of .container -->
-		</div><!--! end of #main -->
 <?php get_footer(); ?>
 
