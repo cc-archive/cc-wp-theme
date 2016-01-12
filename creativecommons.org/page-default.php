@@ -13,25 +13,7 @@ get_header(); ?>
 
 <?php if ( function_exists('yoast_breadcrumb') ) 
 {yoast_breadcrumb('<p id="breadcrumbs">','</p>');} ?>
-    
-<?php 
-if (have_posts()) { 
-		the_post(); ?>
-
-
-
-<h1><?php the_title(); ?></h1>
-<?php the_content(); ?>
-<?php edit_post_link("Edit This Page", '<p>', '</p>'); ?>
-
-<?php } ?>
-
-</div>
-
-
-
-
-    
+        
 <?php 
 if (have_posts()) { 
 		the_post(); ?>
