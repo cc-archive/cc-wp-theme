@@ -21,9 +21,8 @@ get_header();
 
         <div id="main" role="main">
             <div class="container">
-                <div class="sixteen columns">
+                <div class="row">
 
-<div class="first row">
 <div id="title">
 	<?php if (is_month() || is_year()) { ?> 
 	<h1 class="category">
@@ -33,10 +32,8 @@ get_header();
 	</h1>
 	<?php }?>
 	<h1><?php wp_title('')?></h1>
-</div>
-</div><!-- end of first row -->
-                    <div class="row"><!-- for about page -->
-                        <div class="eleven columns alpha">
+</div><!-- end of title -->
+                        <div class="col-md-8">
 
 			<?php if (have_posts()) { 
 				while (have_posts()) {
@@ -74,11 +71,11 @@ get_header();
 
             </div><!-- end of twelve columns alpha -->
 
-            <div class="four columns omega well">
+            <div class="col-md-4 well">
 			    <p><strong><a href="<?php echo get_settings('home') . '/' . $category->slug; ?>/feed/rss">Subscribe to RSS</a></strong></p>
 			    <?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar()) ?>
             </div><!-- end of twelve columns omega -->
-            </div><!-- end of row -->
+		</div><!-- end of row -->
 
 
                 </div><!-- end of sixteen columns -->
