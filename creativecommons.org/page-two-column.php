@@ -32,7 +32,6 @@ if (have_posts()) {
                         </div>
                         <?php endif; ?>
 
-                    </div>
 <?php } ?>
                 </div>
             </div><!--! end of .container -->
