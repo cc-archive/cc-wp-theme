@@ -96,25 +96,27 @@ function get_button ($bucket, $link, $class = 'btn')
 
 <div class="first row well">
 
-      <div class="col-md-4">
-
-      <h2 style="font-size: 22px">
-	We are proud to share Creative Commons' 2015 State of the Commons report
+      <h2 style="font-size: 24px; padding-bottom: 10px;" class="text-center">
+	We are proud to share with you Creative Commons 2016-2020 Organizational Strategy
       </h2>
 
-      <p>Creative Commoners have known all along that collaboration, sharing, and cooperation are a driving force for human evolution. And so for many it will come as no surprise that in 2015 we achieved a tremendous milestone: over 1.1 billion CC licensed photos, videos, audio tracks, educational materials, research articles, and more have now been contributed to the shared global commons.</p>
 
-<p>We are proud to be a leader in the commons movement, and we hope you will join us as we celebrate all we have accomplished together this year.</p>
+      <div class="col-md-4">
 
-<p class="text-center"><a class="btn btn-lg btn-success" href="https://stateof.creativecommons.org/2015/">Read the report</a></p>
+      <p>This strategy reflects over a year of intensive collaboration by CC’s global community. The insights and approaches contained within it have been influenced by hundreds of valuable discussions with our stakeholders, ranging from creators and open community leaders, to foundations and government officials.</p>
+
+<p>Time and time again, the need for a more vibrant, usable, collaborative commons has been an issue of concern. This is a critical moment for the commons, for the open Web, and for Creative Commons. We are incredibly enthusiastic about this new direction for the organization, and we are all deeply motivated to bring it to life. Thank you to everyone who has given their time and energy to help shape this strategy.</p>
+
+<p class="text-center"><a class="btn btn-lg btn-success" href="https://creativecommons.org/remix/">Watch the video</a></p>
 
       </div>
 
       <div class="col-md-8">
       
 
-                                                                                                             <p><a href="https://stateof.creativecommons.org/2015/"><img src="/wp-content/themes/creativecommons.org/img/sotc-2015-lg.png" alt="State of the Commons 2015" class="img-responsive" /></a></p>
+             <iframe src="https://player.vimeo.com/video/151666798" width="610" height="354" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+<p><small><a href="https://creativecommons.org/remix/video">Video credits</a></small></p>
 												
       </div>
 
