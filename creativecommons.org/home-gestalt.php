@@ -111,7 +111,7 @@ function get_button ($bucket, $link, $class = 'btn')
 
       </div>
 
-      <div class="col-md-8">
+      <div class="col-md-8 hidden-sm">
       
 
              <iframe src="https://player.vimeo.com/video/151666798" width="610" height="354" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
