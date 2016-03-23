@@ -58,6 +58,7 @@
 	    <li><a href="http://wiki.creativecommons.org/Integrate">App Integration</a></li>
 	    <li><a href="http://wiki.creativecommons.org/Developer_Challenges">Developer Challenges</a></li>
 	    <li><a href="http://wiki.creativecommons.org/Translate">Translation</a></li>
+     <li><a href="https://creativecommons.org/platform/toolkit">Integration toolkit</a></li>
 
 	</ul></li>
 	
@@ -92,6 +93,7 @@
 	    <li><a href="https://creativecommons.org/education">Education</a></li>
 	    <li><a href="https://creativecommons.org/publicpolicy">Public Policy</a></li>
 	    <li><a href="https://creativecommons.org/science">Science</a></li>
+     	    <li><a href="https://creativecommons.org/platform">Platforms</a></li>
 	    <li class="divider"></li>
 	    <li><a href="http://open4us.org/">OPEN</a></li>
 	    <li><a href="https://creativecommons.org/music-communities">Music Communities</a></li>
