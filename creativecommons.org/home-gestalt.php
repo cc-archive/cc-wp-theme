@@ -91,7 +91,7 @@ function get_button ($bucket, $link, $class = 'btn')
 
 
 <p id="cc-intro">Creative Commons helps you share your knowledge and creativity with the world.</p>
-<p id="cc-subintro">We're helping to realize the full potential of the Internet—universal access to research and education, full participation in culture—to drive a new era of development growth, and productivity.</p>
+<p id="cc-subintro">We're helping to realize the full potential of the Internet—universal access to research and education, full participation in culture—to drive a new era of development, growth, and productivity.</p>
 
 
 <div class="first row well">
