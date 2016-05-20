@@ -97,13 +97,13 @@ function get_button ($bucket, $link, $class = 'btn')
 <div class="first row well">
 
       <h2 style="font-size: 24px; padding-bottom: 10px;" class="text-center">
-	We are proud to share with you Creative Commons 2016-2020 Organizational Strategy
+	We are proud to share the Creative Commons 2016-2020 Organizational Strategy
       </h2>
 
 
       <div class="col-md-4">
 
-      <p>This strategy reflects over a year of intensive collaboration by CC’s global community. The insights and approaches contained within it have been influenced by hundreds of valuable discussions with our stakeholders, ranging from creators and open community leaders, to foundations and government officials.</p>
+      <p>This strategy reflects over a year of intensive collaboration by CC’s global community. The insights and approaches contained within it have been influenced by hundreds of valuable discussions with our stakeholders, who range from creators and open community leaders to foundations and government officials.</p>
 
 <p>Time and time again, the need for a more vibrant, usable, collaborative commons has been an issue of concern. This is a critical moment for the commons, for the open Web, and for Creative Commons. We are incredibly enthusiastic about this new direction for the organization, and we are all deeply motivated to bring it to life. Thank you to everyone who has given their time and energy to help shape this strategy.</p>
 
