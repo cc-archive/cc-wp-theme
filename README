@@ -1,6 +1,8 @@
+## Overview
+
 This theme is used on <https://creativecommons.org>. *How* it is used needs to be researched and documented.
 
----
+## Dependencies
 
 In addition to this repository, the following repositories are also used for <https://creativecommons.org>:
 - [creativecommons/new-creativecommons.org][static]: the static files and WordPress plugins required for the Creative Commons website
