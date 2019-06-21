@@ -1,6 +1,15 @@
 ## Overview
 
-This theme is used on <https://creativecommons.org>. *How* it is used needs to be researched and documented.
+This theme is used on <https://creativecommons.org>. *How* it is used needs to be researched and documented. Prior documentation:
+
+> This is the Creative Commons master theme. It is currently used in themes for
+> CC.org, wiki.CC.org, CC.net, search.CC.org and labs.CC.org.  Some files are
+> generated, so if you make changes to the CSS files, for example, you should
+> run:
+>
+> $ make
+>
+> This should generate any necessary files dynamically.
 
 ## Dependencies
 
