@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kgodey",
+      "name": "Kriti Godey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287034?v=4",
+      "profile": "http://kritigodey.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "cc-wp-theme",
+  "projectOwner": "creativecommons",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
